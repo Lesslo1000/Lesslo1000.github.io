@@ -30,11 +30,16 @@
             Gerer mon compte
         </h1>
         <fieldset>
-            <label for="">Nom d'utilisateur <input type="text" /></label>
+            <label for="">Nom d'utilisateur <input type="text" id="login" /></label>
             <label for="">Mot de passe <input type="password" /></label>
             <button>ok</button>
         </fieldset>
     </div>
+    <script>
+        document.querySelector('button').onclick = () => {
+            confirm(`bienvenue ${document.querySelector('#login').value}`)
+        }
+    </script>
 </body>
 
 </html>
