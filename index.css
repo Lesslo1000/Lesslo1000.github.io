@@ -79,3 +79,23 @@ button:active {
 marquee {
   line-height: 32px;
 }
+
+.logo {
+  transition: transform 1s ease-in-out;
+  color: #FFF;
+  font-size: 100px;
+  font-weight: bold;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(241, 25, 157, 1);
+  box-shadow: 8px 8px 8px 2px rgba(0, 0, 0, 0.23);
+  margin-bottom: 24px;
+}
+
+.logo:hover {
+  transform: rotate(360deg);
+}
