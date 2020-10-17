@@ -10,7 +10,8 @@
     "serve": "nuxt-ts serve",
     "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint:style": "stylelint **/*.{vue,css} --ignore-path .gitignore",
-    "lint": "yarn lint:js && yarn lint:style"
+    "lint": "yarn lint:js && yarn lint:style",
+    "prod": "nuxt generate && cp -Rf dist docs"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint",
