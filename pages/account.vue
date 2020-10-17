@@ -1,10 +1,14 @@
 <template>
   <div>
-    <h1>My account</h1>
+    <h1>Mon compte</h1>
     <fieldset>
       <label for>
-        Username
-        <input type="text" id="login" />
+        Prénom
+        <input id="name" type="text" />
+      </label>
+      <label for>
+        Nom
+        <input id="surname" type="text" />
       </label>
       <label for>
         Password
@@ -14,7 +18,6 @@
     </fieldset>
   </div>
 </template>
-
 
 <style scoped>
 h1 {
