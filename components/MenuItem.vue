@@ -1,7 +1,7 @@
 <template>
   <nuxt-link :to="href">
     <img :src="src" alt width="32px" />
-    <span class="label">{{label}}</span>
+    <span class="label">{{ label }}</span>
   </nuxt-link>
 </template>
 
@@ -28,7 +28,8 @@ export default {
 a {
   display: flex;
   align-items: center;
-  color: #00a6a6;
+  color: #eefbfb;
+  padding: 8px;
 }
 
 .label {

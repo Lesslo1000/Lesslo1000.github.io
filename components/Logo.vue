@@ -8,7 +8,7 @@
 .logo {
   color: #fff;
   border: 8px solid white;
-  font-size: 100px;
+  font-size: 80px;
   font-weight: bold;
   width: 120px;
   height: 120px;
@@ -16,11 +16,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(
-    135deg,
-    rgba(232, 153, 202, 1) 0%,
-    rgba(207, 17, 153, 1) 100%
-  );
+  background: linear-gradient(135deg, #203647 0%, #007cc7 100%);
   box-shadow: 8px 8px 8px 2px rgba(0, 0, 0, 0.23);
   margin-bottom: 24px;
   align-self: center;

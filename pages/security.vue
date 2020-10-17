@@ -1,6 +1,7 @@
 <template>
   <div class="security">
     <h1>Your account is very secure!</h1>
+    <video autoplay src="~assets/solfege-clef-de-sol-et-clef-de-fa.mp4" />
   </div>
 </template>
 
@@ -16,5 +17,3 @@ h1 {
   color: #fff;
 }
 </style>
-
-

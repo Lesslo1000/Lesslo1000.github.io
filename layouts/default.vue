@@ -2,36 +2,6 @@
   <div class="container">
     <Sidebar />
     <div class="content">
-      <header>
-        <MenuItem
-          href="/account"
-          src="https://cdn.clipart.email/57cc4b7dfa283cc49b38860e3b2bde16_flat-circle-user-icon-png_512-512.png"
-        />
-        <MenuItem
-          href="/"
-          src="https://d29fhpw069ctt2.cloudfront.net/icon/image/37728/preview.svg"
-        />
-        <MenuItem
-          href="/security"
-          src="https://d29fhpw069ctt2.cloudfront.net/icon/image/37722/preview.svg"
-        />
-        <MenuItem
-          href="/account"
-          src="https://cdn.clipart.email/57cc4b7dfa283cc49b38860e3b2bde16_flat-circle-user-icon-png_512-512.png"
-        />
-        <MenuItem
-          href="/golden-book"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Closed_Book_Icon.svg/1024px-Closed_Book_Icon.svg.png"
-        />
-        <MenuItem
-          href="https://docs.google.com/forms/d/1HKmPef3sLAgktLpfMGozjNrJOViTzcNALA1kjH27a0M/prefill"
-          src="https://www.shareicon.net/data/128x128/2016/07/06/105331_clipboard_512x512.png"
-        />
-        <MenuItem
-          href="/animal-crossing"
-          src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/662d699fb3508913695939ce9460d225-1568402835583/22e77e98-d36a-49a9-be13-33c04822121b.png"
-        />
-      </header>
       <div class="page">
         <Nuxt />
       </div>
@@ -53,13 +23,6 @@ html {
   box-sizing: border-box;
 }
 
-header {
-  background-color: white;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
 .container {
   display: flex;
   flex-direction: row;
@@ -68,7 +31,7 @@ header {
   padding: 0;
   height: 100vh;
   align-items: stretch;
-  background-color: #00a6a6;
+  background-color: #12232e;
 }
 
 .page {
