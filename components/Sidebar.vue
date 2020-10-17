@@ -23,7 +23,7 @@
     />
     <MenuItem
       href="/animal-crossing"
-      src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/662d699fb3508913695939ce9460d225-1568402835583/22e77e98-d36a-49a9-be13-33c04822121b.png"
+      src="https://www.flaticon.com/svg/static/icons/svg/195/195183.svg"
       label="Leçons de piano"
     />
     <MenuItem

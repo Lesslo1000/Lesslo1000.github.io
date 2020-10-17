@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome to the Lesslo1000 page!</h1>
+    <h1>Bienvenue sur la page de Lesslo1000!</h1>
     <marquee>
       <img
         src="https://cdn.pixabay.com/photo/2020/04/29/07/54/coronavirus-5107715_1280.png"

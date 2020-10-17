@@ -44,6 +44,7 @@ html {
   display: flex;
   flex: 1;
   height: 100vh;
+  padding: 16px;
 }
 
 footer {
