@@ -22,7 +22,7 @@
       label="Enquête"
     />
     <MenuItem
-      href="/animal-crossing"
+      href="/piano-lessons"
       src="https://www.flaticon.com/svg/static/icons/svg/195/195183.svg"
       label="Leçons de piano"
     />
