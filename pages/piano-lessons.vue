@@ -1,12 +1,11 @@
 <template>
   <div>
-    <h1>Animal Crossing</h1>
+    <h1>Piano lessons</h1>
     <img
-      src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/TomNookACNH1.png/revision/latest?cb=20200104235118&path-prefix=fr"
+      src="https://images.unsplash.com/photo-1565879629766-30adf38aac56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2624&q=80"
     />
   </div>
 </template>
-
 
 <style scoped>
 h1 {
