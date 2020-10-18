@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <Page>
     <h1>Piano lessons</h1>
     <img
       src="https://images.unsplash.com/photo-1565879629766-30adf38aac56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2624&q=80"
     />
-  </div>
+  </Page>
 </template>
 
 <style scoped>

@@ -1,13 +1,5 @@
 <template>
-  <div class="container">
-    <Sidebar />
-    <div class="content">
-      <div class="page">
-        <Nuxt />
-      </div>
-      <footer>Artistic director: Léo KADEM - Coding: Nadir KADEM</footer>
-    </div>
-  </div>
+  <Nuxt />
 </template>
 
 <style>
@@ -37,21 +29,6 @@ html {
 .page {
   overflow: auto;
   flex: 1;
-}
-
-.content {
-  flex-direction: column;
-  display: flex;
-  flex: 1;
-  height: 100vh;
-  padding: 16px;
-}
-
-footer {
-  padding: 8px;
-  background-color: rgba(255, 255, 255, 0.2);
-  text-align: center;
-  color: white;
 }
 
 *,

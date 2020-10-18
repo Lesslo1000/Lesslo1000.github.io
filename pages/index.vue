@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <Page>
     <h1>Bienvenue sur la page de Lesslo1000!</h1>
     <marquee>
       <img
@@ -12,7 +12,7 @@
         width="32px"
       />
     </marquee>
-  </div>
+  </Page>
 </template>
 
 <style scoped>

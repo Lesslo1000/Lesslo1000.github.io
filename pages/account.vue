@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <Page>
     <h1>Mon compte</h1>
     <fieldset>
       <label for>
@@ -16,7 +16,7 @@
       </label>
       <button>ok</button>
     </fieldset>
-  </div>
+  </Page>
 </template>
 
 <style scoped>
