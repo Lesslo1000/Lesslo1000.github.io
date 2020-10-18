@@ -1,12 +1,12 @@
 <template>
   <div class="container">
-    <Sidebar />
+    <!--<Sidebar />
     <div class="content" :style="{ backgroundImage: `url('${background}')` }">
       <div class="real-content">
         <slot></slot>
       </div>
       <footer>Artistic director: Léo KADEM - Coding: Nadir KADEM</footer>
-    </div>
+    </div>-->
   </div>
 </template>
 
