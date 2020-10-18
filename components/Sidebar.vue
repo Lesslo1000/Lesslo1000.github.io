@@ -27,7 +27,7 @@
       label="Leçons de piano"
     />
     <MenuItem
-      href="/animal-crossing"
+      href="/solfege-lessons"
       src="https://freesvg.org/img/Music_icon_2.png"
       label="Leçons de solfège"
     />
@@ -38,11 +38,9 @@
 .sidebar {
   width: 230px;
   background-color: #203647;
-  padding: 16px;
   display: flex;
-  gap: px;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: stretch;
 }
 @media only screen and (max-width: 600px) {
   .sidebar {

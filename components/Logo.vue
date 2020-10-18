@@ -18,6 +18,7 @@
   justify-content: center;
   background: linear-gradient(135deg, #203647 0%, #007cc7 100%);
   box-shadow: 8px 8px 8px 2px rgba(0, 0, 0, 0.23);
+  margin: 16px;
   margin-bottom: 24px;
   align-self: center;
 }

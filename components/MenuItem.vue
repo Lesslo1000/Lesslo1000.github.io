@@ -26,10 +26,16 @@ export default {
 
 <style>
 a {
+  transition: background-color 0.1s ease-in-out;
   display: flex;
   align-items: center;
   color: #eefbfb;
-  padding: 8px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #12232e;
 }
 
 .label {

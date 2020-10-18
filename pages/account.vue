@@ -32,6 +32,7 @@ fieldset {
   padding: 16px;
   font-size: 20px;
   color: #fff;
+  width: 400px;
 }
 
 label {
@@ -46,6 +47,7 @@ button {
   text-transform: uppercase;
   font-weight: 400;
   color: #fff;
+  padding: 8px;
   background-color: #3369ff;
   box-shadow: inset 0 -0.6em 0 -0.35em rgba(0, 0, 0, 0.17);
   text-align: center;

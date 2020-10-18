@@ -15,17 +15,6 @@ html {
   box-sizing: border-box;
 }
 
-.container {
-  display: flex;
-  flex-direction: row;
-  font-size: 16px;
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  align-items: stretch;
-  background-color: #12232e;
-}
-
 .page {
   overflow: auto;
   flex: 1;
