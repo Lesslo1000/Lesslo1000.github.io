@@ -13,8 +13,7 @@
             L'équipe Lesslo1000
           </p>
         </div>
-
-        <!--<slot></slot>-->
+        <slot></slot>
       </div>
       <footer>Artistic director: Léo KADEM - Coding: Nadir KADEM</footer>
     </div>
