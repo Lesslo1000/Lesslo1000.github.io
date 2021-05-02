@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <!--<Sidebar />-->
+    <Sidebar />
     <div class="content" :style="{ backgroundImage: `url('${background}')` }">
       <div class="real-content">
         <slot></slot>
