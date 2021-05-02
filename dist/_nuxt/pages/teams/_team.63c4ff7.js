@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{180:function(t,e,n){"use strict";n.r(e);var l=n(19),component=Object(l.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("Welcome team "+this._s(this.$route.params.team))])}),[],!1,null,null,null);e.default=component.exports}}]);
