@@ -3,16 +3,6 @@
     <!--<Sidebar />-->
     <div class="content" :style="{ backgroundImage: `url('${background}')` }">
       <div class="real-content">
-        <div class="error">
-          <h1>Désolé, le site est en maintenance</h1>
-          <p>
-            En raison de la COVID 19, nous essayons de nous mobiliser mais une
-            erreur s'est produite.<br />
-            Nous sommes désolés pour l'erreur.
-            <br />
-            L'équipe Lesslo1000
-          </p>
-        </div>
         <slot></slot>
       </div>
       <footer>Artistic director: Léo KADEM - Coding: Nadir KADEM</footer>
